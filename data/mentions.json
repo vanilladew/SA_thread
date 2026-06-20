@@ -68,9 +68,9 @@
       "retweets": " ",
       "replies": "1",
       "views": "13",
-      "isMe": false    
+      "isMe": false
     },
-        {
+    {
       "id": "6",
       "author": "찹모닝",
       "handle": "chapchop",
@@ -96,8 +96,9 @@
       "retweets": " ",
       "replies": "1",
       "views": "13",
-      "isMe": false    
-    },      {
+      "isMe": false
+    },
+    {
       "id": "8",
       "author": "찹모닝",
       "handle": "chapchop",
@@ -123,10 +124,10 @@
       "retweets": " ",
       "replies": "1",
       "views": "13",
-      "isMe": false    
+      "isMe": false
     },
-       {
-      "id": "6",
+    {
+      "id": "10",
       "author": "찹모닝",
       "handle": "chapchop",
       "avatar": "",
@@ -140,7 +141,7 @@
       "isMe": true
     },
     {
-      "id": "7",
+      "id": "11",
       "author": "멈무콜리",
       "handle": "mummu",
       "avatar": "",
@@ -151,9 +152,10 @@
       "retweets": " ",
       "replies": "1",
       "views": "13",
-      "isMe": false    
-    },      {
-      "id": "8",
+      "isMe": false
+    },
+    {
+      "id": "12",
       "author": "찹모닝",
       "handle": "chapchop",
       "avatar": "",
@@ -167,7 +169,7 @@
       "isMe": true
     },
     {
-      "id": "5",
+      "id": "13",
       "author": "멈무콜리",
       "handle": "mummu",
       "avatar": "",
@@ -178,7 +180,7 @@
       "retweets": " ",
       "replies": "1",
       "views": "13",
-      "isMe": false    
-    },
+      "isMe": false
+    }
   ]
 }
